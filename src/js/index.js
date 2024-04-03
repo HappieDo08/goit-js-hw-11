@@ -12,7 +12,6 @@ const searchInputEl = document.querySelector('input[name="searchQuery"');
 const searchFormEl = document.getElementById('search-form');
 
 
-
 // instantiate simplelightbox
 const lightbox = new SimpleLightbox('.lightbox', {
   captionsData: 'alt',
